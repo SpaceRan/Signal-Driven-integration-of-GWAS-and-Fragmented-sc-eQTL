@@ -1,0 +1,2 @@
+# Signal-Driven-integration-of-GWAS-and-Fragmented-sc-eQTL
+Conventional colocalization methods (e.g., COLOC) assume complete SNP coverage, which is rarely satisfied in cross-study integration of single-cell eQTL (sc-eQTL) data. To address this, we performed a signal-driven integrative variant prioritization framework designed to operate under the realistic constraints of fragmented single-cell eQTL data. 
