@@ -3,6 +3,9 @@ numpy>=1.21.0
 pandas>=1.3.0
 pyarrow>=8.0.0  # for parquet support
 
+# Jupyter 
+jupyter
+
 # Scientific computing
 scipy>=1.7.0
 
