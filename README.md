@@ -4,10 +4,10 @@ Conventional colocalization methods (e.g., COLOC) assume complete SNP coverage, 
 
 ## 📢 Current Status
 
-✅ All core Python scripts have been uploaded and are fully functional as standalone modules.
-⚠️ The end-to-end workflow is not yet integrated: while each component works independently and the core algorithm is implemented, the input/output interfaces between modules are still being refined.
-⚠️ Example datasets and toy examples for quick testing are not yet included.
-✅ Per-script documentation and usage tutorials will be added shortly.
+- ✅ All core Python scripts have been uploaded and are fully functional as standalone modules.
+- ⚠️ The end-to-end workflow is not yet integrated: while each component works independently and the core algorithm is implemented, the input/output interfaces between modules are still being refined.
+- ⚠️ Example datasets and toy examples for quick testing are not yet included.
+- ✅ Per-script documentation and usage tutorials will be added shortly.
 
 We are actively preparing standardized test cases and example configurations to facilitate reuse and validation.
 
