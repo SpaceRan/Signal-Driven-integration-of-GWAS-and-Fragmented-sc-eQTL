@@ -21,4 +21,4 @@ MIT © [SpaceRan] 2025
 ---
 
 📬 **Contact**: Feel free to open an issue or reach out via email: yulangxuan@sjtu.edu.cn
-📚 Related work: [bioRxiv DOI]
+📚 Related work: [[bioRxiv DOI]](https://submit.biorxiv.org/submission/pdf?msid=BIORXIV/2025/679919&roleName=author&msversion=1)
