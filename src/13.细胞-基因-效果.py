@@ -78,9 +78,9 @@ def lookup_genes_and_functions(matched_rows):
     if D_t_val is None or pd.isna(D_t_val):
         return None
     if D_t_val > 0.8:
-        return gene, "tumor suppressor gene"
-    elif D_t_val < 0.2:
         return gene, "oncogene"
+    elif D_t_val < 0.2:
+        return gene, "tumor suppressor gene"
     else:
         return None            
 
@@ -111,3 +111,4 @@ if __name__ == "__main__":
     INPUT_CSV = r"D:\desk\study5_COPDxLC_SMR\Aresult_9_1\ZNEW_unit_SOP&MR\AAAA_gene_Dt.csv"         
     OUTPUT_CSV = r"D:\desk\study5_COPDxLC_SMR\Aresult_9_1\ZNEW_unit_SOP&MR\AAAA_gene_Dt_cellfunction.csv"
     process_csv(INPUT_CSV, OUTPUT_CSV)
+
