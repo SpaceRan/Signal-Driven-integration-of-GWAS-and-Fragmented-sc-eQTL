@@ -20,5 +20,6 @@ MIT © [SpaceRan] 2025
 
 ---
 
-📬 **Contact**: Feel free to open an issue or reach out via email: yulangxuan@sjtu.edu.cn
-📚 Related work：(https://submit.medrxiv.org/submission/pdf?msid=MEDRXIV/2025/337327)
+- 📬 **Contact**: Feel free to open an issue or reach out via email: yulangxuan@sjtu.edu.cn
+- 📚 Related work：(https://submit.medrxiv.org/submission/pdf?msid=MEDRXIV/2025/337327)
+- 📚 full supplementary materials：(10.5281/zenodo.17302764)
